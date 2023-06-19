@@ -39,6 +39,7 @@ namespace
         {"BBC Model B", L""},
         {"BBC Model B+", L""},
         {"BBC Master 128", L""}
+        {"Neo Geo", L"ネオジオ"}
     };
 
     BOOL CALLBACK set_child_font(HWND hwndChild, LPARAM lParam)
